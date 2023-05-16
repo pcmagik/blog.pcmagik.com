@@ -25,11 +25,10 @@ title:                 PC Magik Blog
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  I'm thrilled to have you here. Let me introduce myself – I'm pcmagik, a passionate developer with expertise in Linux, Proxmox, hardware, and programming. I strive to make a difference through innovative projects and collaborative experiences.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               "Myślę, więc jestem" "Cogito, ergo sum" "I think, therefore I am".
 
 # A list of keywords for your blog
 keywords:              []
@@ -49,7 +48,7 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
+  - title:             Blog
     url:               /example/
   - title:             Documentation
     url:               /docs/
@@ -360,10 +359,10 @@ plugins:
 
 # Used on index and about sites
 # social:
-#   name:                <firstname> <lastname>
+#   name:                <Mateusz> <Piekut>
 #   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+#     - https://twitter.com/pcmagik
+#     - https://github.com/pcmagik
 
 
 # Plugin Configs
@@ -420,4 +419,4 @@ jekyll_compose:
         path: /assets/img/sidebar-bg.jpg
       links:
         - title: Project Link
-          url: https://example.com
+          url: https://mateuszpiekut.pl
