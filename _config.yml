@@ -359,10 +359,10 @@ plugins:
 
 # Used on index and about sites
 # social:
-   name:                <Mateusz> <Piekut>
-   links:
-     - https://twitter.com/pcmagik
-     - https://github.com/pcmagik
+#   name:                <Mateusz> <Piekut>
+#   links:
+#     - https://twitter.com/pcmagik
+#     - https://github.com/pcmagik
 
 
 # Plugin Configs
