@@ -44,12 +44,12 @@ author:
   name:                <Mateusz> <Piekut>
   email:               <biuro@mateuszpiekut.pl>
   # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  # twitter:             <PcMagik>
 
 # Add links to the sidebar.
 menu:
   - title:             Blog
-    url:               /example/
+    url:               /Blog/
   - title:             Documentation
     url:               /docs/
   - title:             About
@@ -66,7 +66,7 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2021. All rights reserved.
+copyright:             © 2023. PC Magik All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
